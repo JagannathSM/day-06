@@ -1,5 +1,6 @@
 // CREATE CLASS MOVIE
 
+
 class movie{
     constructor(name,studio,rating='PG'){
         this.name=name;
